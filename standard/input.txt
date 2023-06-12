@@ -1,0 +1,41 @@
+# size defaults are for ShuffledInk poker template
+# https://shuffledink.com/wp-content/uploads/2016/10/Poker-Size-Card-Template.pdf
+OUT_W 2.625
+OUT_H 3.632
+CRD_W 2.5
+CRD_H 3.5
+SAF_W 2.125
+SAF_H 3.125
+# This is the size of the rectangle for pips for non-face cards
+PIP_W 2
+PIP_H 3
+DPI   300
+BACKGROUND_RGB FFFFFF
+SPAD_RGB   000000
+CLUB_RGB   000000
+HART_RGB   FF0000
+DMND_RGB   FF0000
+# images cropped from https://www.pngarts.com/
+SPAD_IMG   spad.png
+CLUB_IMG   club.png
+HART_IMG   hart.png
+DMND_IMG   dmnd.png
+AS_IMG ace_spad.png  # full images
+AC_IMG ace_club.png
+AH_IMG ace_hart.png
+AD_IMG ace_dmnd.png
+KS_IMG kng_spad.png  # half-images, to be doubled
+KC_IMG kng_club.png
+KH_IMG kng_hart.png
+KD_IMG kng_dmnd.png
+QS_IMG qun_spad.png
+QC_IMG qun_club.png
+QH_IMG qun_hart.png
+QD_IMG qun_dmnd.png
+JS_IMG jck_spad.png
+JC_IMG jck_club.png
+JH_IMG jck_hart.png
+JD_IMG jck_dmnd.png
+J1_IMG joker1.png   # full
+J2_IMG joker1.png
+BK_IMG back.png     # also half
